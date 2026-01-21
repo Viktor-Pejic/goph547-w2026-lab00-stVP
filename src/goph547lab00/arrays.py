@@ -11,3 +11,4 @@ def square_ones(n):
     numpy.ndarray, shape=(n,n)
     """
     return np.ones((n,n))
+
